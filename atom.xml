@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Alvabill</title>
+  <title>参差&amp;World</title>
   
   <subtitle>Stay Hungry, Stay Foolish</subtitle>
   <link href="http://wuvu.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://wuvu.github.io/</id>
   
   <author>
-    <name>Alvabill</name>
+    <name>伊恩踢屁</name>
     
   </author>
   
